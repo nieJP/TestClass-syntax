@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 class Animal
 {
 public:
@@ -29,3 +29,8 @@ class Fish :public Animal
 public:
 
 };
+ 
+int main()
+{
+	
+}
